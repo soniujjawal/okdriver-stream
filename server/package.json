@@ -1,0 +1,7 @@
+{
+  "name": "webrtc-server",
+  "type": "module",
+  "dependencies": {
+    "socket.io": "^4.7.0"
+  }
+}
